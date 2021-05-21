@@ -2,9 +2,9 @@
 
 This is Junliang, a second-year PhD student majoring in Computer Science.
 
-- 🔭 I’m currently working on recommender systems and graph learning.
-- 🌱 I’m working with A/Prof. Hongzhi Yin at the University of Queensland.
-- 👯 Feel free to contact me if you have any questions.
+- My research interests include recommender systems, social network analysis, and graph learning.
+- I’m working with A/Prof. Hongzhi Yin at the University of Queensland.
+- Feel free to contact me if you have any questions.
 
 #### What's New
 [17/05/2021] One paper on self-supervised learning and recommendation is accepted by KDD'21.  
