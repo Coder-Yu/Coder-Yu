@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Junliang, a second-year computer science PhD student in Data Science.
+This is Junliang, a second-year PhD student majoring in Computer Science.
 
 - 🔭 I’m currently working on recommender systems and graph learning.
 - 🌱 I’m working with A/Prof. Hongzhi Yin at the University of Queensland.
