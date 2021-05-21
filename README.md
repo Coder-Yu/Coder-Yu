@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-This is Junliang, a second-year PhD student majoring in Computer Science.
+This is Junliang [[Google Scholar]](https://scholar.google.com/citations?user=JGuWOUIAAAAJ&hl=zh-CN&oi=ao) [[Email]](mailto:jl.yu@uq.edu.au), a second-year PhD student majoring in Computer Science.
 
 - My research interests include recommender systems, social network analysis, and graph learning.
 - I’m working with A/Prof. Hongzhi Yin at the University of Queensland.
 - Feel free to contact me if you have any questions.
 
-[[Google Scholar]](https://scholar.google.com/citations?user=JGuWOUIAAAAJ&hl=zh-CN&oi=ao) [[Email]](mailto:jl.yu@uq.edu.au) 
+
 
 #### What's New
 [17/05/2021] One paper on self-supervised learning and recommendation is accepted by KDD'21.  
