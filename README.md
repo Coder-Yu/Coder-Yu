@@ -7,10 +7,10 @@ This is Junliang, a Computer Science PhD student in Data Mining.
 - 👯 Feel free to contact me if you have any questions.
 
 #### What's New
-[17/05/2021] One paper titled "Socially-Aware Self-Supervised Tri-Training for Recommendation" is accepted by KDD'21.
-[16/01/2021] One paper titled "Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation" is accepted by WWW'21.
-[02/12/2020] One paper titled "Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation" is accepted by AAA'21.
-[02/10/2020] One paper titled "Enhancing social recommendation with adversarial graph convolutional networks" is accepted by IEEE TKDE.
+[17/05/2021] One paper on self-supervised learning and recommendation is accepted by KDD'21.  
+[16/01/2021] One paper on self-supervised learning and social recommendation is accepted by WWW'21.  
+[02/12/2020] One paper on hypergraph and session-based Recommendation" is accepted by AAA'21.  
+[02/10/2020] One paper on graph convolutional networks and generative adversarial networks is accepted by IEEE TKDE.
 
 #### My Github States
 
