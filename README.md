@@ -12,6 +12,8 @@ This is Junliang, a second-year PhD student majoring in Computer Science.
 [02/12/2020] One co-authored paper on hypergraph and session-based Recommendation is accepted by AAAI'21.  
 [02/10/2020] One paper on graph convolutional networks and generative adversarial networks is accepted by IEEE TKDE.
 
+[[My Google Scholar]](https://scholar.google.com/citations?user=JGuWOUIAAAAJ&hl=zh-CN&oi=ao)
+
 #### My Github States
 
 ![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-Yu)
