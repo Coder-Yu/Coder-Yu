@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 This is Junliang, a second-year PhD student majoring in Computer Science. [[Google Scholar]](https://scholar.google.com/citations?user=JGuWOUIAAAAJ&hl=EN&oi=ao)
-
-- My research interests include recommender systems, social network analysis, and graph learning.
 - I’m working with A/Prof. Hongzhi Yin at the University of Queensland.
+- My research interests include recommender systems, social network analysis, and graph learning.
 - Feel free to drop me an email if you have any questions. [📧](mailto:jl.yu@uq.edu.au)
 
 #### What's New ⭐️
