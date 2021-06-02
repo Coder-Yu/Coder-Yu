@@ -15,7 +15,7 @@ This is Junliang, a second-year PhD student majoring in Computer Science. [[Goog
 J. Yu, H. Yin, et al. "Socially-Aware Self-Supervised Tri-Training for Recommendation". KDD'21<br>
 J. Yu, H. Yin, et al. "Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation". WWW'21<br>
 X. Xia, H. Yin, J. Yu, et al. "Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation". AAAI'21<br>
-J. Yu, H. Yin, et al. "Enhance Social Recommendation with Adversarial Graph Convolutional Networks". TKDE'20<br>
+J. Yu, H. Yin, et al. "Enhancing Social Recommendation with Adversarial Graph Convolutional Networks". TKDE'20<br>
 J. Yu, M. Gao, et al. "Generating Reliable Friends via Adversarial Training to Improve Social Recommendation". ICDM'19<br>
 J. Yu, M. Gao, et al. "Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation". CIKM'18<br>
 
