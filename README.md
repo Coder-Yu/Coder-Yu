@@ -6,11 +6,11 @@ This is Junliang Yu, a second-year PhD student majoring in Computer Science. [[G
 - Feel free to drop me an email if you have any questions. [📧](mailto:jl.yu@uq.edu.au)
 
 #### What's New 📢
-[08/08/2021] Two papers on self-supervised learning and recommendation are accepted by CIKM'21
-[17/05/2021] One paper on self-supervised learning and recommendation is accepted by KDD'21.  
-[16/01/2021] One paper on self-supervised learning and social recommendation is accepted by WWW'21.  
-[02/12/2020] One co-authored paper on hypergraph and session-based recommendation is accepted by AAAI'21.  
-[02/10/2020] One paper on graph convolutional networks and generative adversarial networks is accepted by IEEE TKDE.
+- [08/08/2021] Two papers on self-supervised learning and recommendation are accepted by CIKM'21
+- [17/05/2021] One paper on self-supervised learning and recommendation is accepted by KDD'21.  
+- [16/01/2021] One paper on self-supervised learning and social recommendation is accepted by WWW'21.  
+- [02/12/2020] One co-authored paper on hypergraph and session-based recommendation is accepted by AAAI'21.  
+- [02/10/2020] One paper on graph convolutional networks and generative adversarial networks is accepted by IEEE TKDE.
 
 #### Selected Publications ⭐️
 + X. Xia, H. Yin, J. Yu, et al. "Self-Supervised Co-Training for Session-based Recommendation". CIKM'21 <br>
