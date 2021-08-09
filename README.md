@@ -15,12 +15,12 @@ This is Junliang Yu, a second-year PhD student majoring in Computer Science. [[G
 #### Selected Publications ⭐️
 + X. Xia, H. Yin, <b>J. Yu</b>, et al. Self-Supervised Co-Training for Session-based Recommendation. CIKM'21<br>
 + J. Zhang, M. Gao, <b>J. Yu</b>, et al. Double-Scale Self-Supervised Hypergraph Convolutional Network for Group Recommendation. CIKM'21<br>
-+ <b>J. Yu</b>, H. Yin, et al. Socially-Aware Self-Supervised Tri-Training for Recommendation. KDD'21<br>
-+ <b>J. Yu</b>, H. Yin, et al. Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation. WWW'21<br>
++ <b>J. Yu</b>, H. Yin, M. Gao, et al. Socially-Aware Self-Supervised Tri-Training for Recommendation. KDD'21<br>
++ <b>J. Yu</b>, H. Yin, J. Li, et al. Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation. WWW'21<br>
 + X. Xia, H. Yin, <b>J. Yu</b>, et al. Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation. AAAI'21<br>
-+ <b>J. Yu</b>, H. Yin, et al. Enhancing Social Recommendation with Adversarial Graph Convolutional Networks. TKDE'20<br>
-+ <b>J. Yu</b>, M. Gao, et al. Generating Reliable Friends via Adversarial Training to Improve Social Recommendation. ICDM'19<br>
-+ <b>J. Yu</b>, M. Gao, et al. Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation. CIKM'18<br>
++ <b>J. Yu</b>, H. Yin, J. Li, et al. Enhancing Social Recommendation with Adversarial Graph Convolutional Networks. TKDE'20<br>
++ <b>J. Yu</b>, M. Gao, H. Yin, et al. Generating Reliable Friends via Adversarial Training to Improve Social Recommendation. ICDM'19<br>
++ <b>J. Yu</b>, M. Gao, J. Li, et al. Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation. CIKM'18<br>
 
 #### Featured Project 🍊
 <a href="https://github.com/Coder-Yu/QRec"> <img src="https://i.ibb.co/Bsn8CM5/logo.png" alt="logo" border="0"></a><br>
