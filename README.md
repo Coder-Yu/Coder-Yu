@@ -14,7 +14,7 @@ This is Junliang Yu, a second-year PhD student majoring in Computer Science. [[G
 
 #### Selected Publications ⭐️
 + X. Xia, H. Yin, <b>J. Yu</b> et al. Self-Supervised Co-Training for Session-based Recommendation. CIKM'21<br>
-+ J. Zhang, M. Gao, <b>J. Yu</b> et al. Double-Scale Self-Supervised Hypergraph Convolutional Network for Group Recommendation. CIKM'21<br>
++ J. Zhang, M. Gao, <b>J. Yu</b> et al. Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation. CIKM'21<br>
 + <b>J. Yu</b>, H. Yin, M. Gao et al. Socially-Aware Self-Supervised Tri-Training for Recommendation. KDD'21<br>
 + <b>J. Yu</b>, H. Yin, J. Li et al. Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation. WWW'21<br>
 + X. Xia, H. Yin, <b>J. Yu</b> et al. Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation. AAAI'21<br>
