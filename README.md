@@ -14,7 +14,7 @@ This is Junliang Yu, a second-year PhD student majoring in Computer Science. [[G
 - [02/10/2020] One paper on graph convolutional networks and generative adversarial networks is accepted by IEEE TKDE.
 
 #### Selected Publications ⭐️
-+ Q. wang, H. Yin, T. Chen, <b>J. Yu</b> et al. Fast-adapting and Privacy-preserving Federated Recommender System. VLDBJ'21
++ Q. Wang, H. Yin, T. Chen, <b>J. Yu</b> et al. Fast-adapting and Privacy-preserving Federated Recommender System. VLDBJ'21
 + X. Xia, H. Yin, <b>J. Yu</b> et al. Self-Supervised Graph Co-Training for Session-based Recommendation. CIKM'21<br>
 + J. Zhang, M. Gao, <b>J. Yu</b> et al. Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation. CIKM'21<br>
 + <b>J. Yu</b>, H. Yin, M. Gao et al. Socially-Aware Self-Supervised Tri-Training for Recommendation. KDD'21<br>
