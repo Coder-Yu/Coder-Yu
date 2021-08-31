@@ -6,6 +6,7 @@ This is Junliang Yu, a second-year PhD student majoring in Computer Science. [[G
 - Feel free to drop me an email if you have any questions. [📧](mailto:jl.yu@uq.edu.au)
 
 #### What's New 📢
+- [01/09/2021] One co-authored paper on federated learning and recommendation is accepted by the VLDB Journal.
 - [08/08/2021] Two co-authored papers on self-supervised learning and group/session recommendation are accepted by CIKM'21
 - [17/05/2021] One paper on self-supervised learning and recommendation is accepted by KDD'21.  
 - [16/01/2021] One paper on self-supervised learning and social recommendation is accepted by WWW'21.  
@@ -13,6 +14,7 @@ This is Junliang Yu, a second-year PhD student majoring in Computer Science. [[G
 - [02/10/2020] One paper on graph convolutional networks and generative adversarial networks is accepted by IEEE TKDE.
 
 #### Selected Publications ⭐️
++ Q. wang, H. Yin, T. Chen, <b>J. Yu</b> et al. Fast-adapting and Privacy-preserving Federated Recommender System. VLDBJ'21
 + X. Xia, H. Yin, <b>J. Yu</b> et al. Self-Supervised Graph Co-Training for Session-based Recommendation. CIKM'21<br>
 + J. Zhang, M. Gao, <b>J. Yu</b> et al. Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation. CIKM'21<br>
 + <b>J. Yu</b>, H. Yin, M. Gao et al. Socially-Aware Self-Supervised Tri-Training for Recommendation. KDD'21<br>
