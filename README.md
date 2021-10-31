@@ -31,7 +31,7 @@ This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Go
 #### Featured Project 🍊
 <a href="https://github.com/Coder-Yu/QRec"> <img src="https://i.ibb.co/Bsn8CM5/logo.png" alt="logo" border="0"></a><br>
 <p float="left"> <a href="https://github.com/Coder-Yu/QRec/stargazers"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Coder-Yu/QRec"/> </a> <a href="https://github.com/Coder-Yu/QRec/network/members"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Coder-Yu/QRec"/> </a> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Coder-Yu/QRec"></p> 
-Find implementations of our papers in QRec 😜.
+You can find all the implementations of my papers in QRec 😜.
 
 #### My Github States
 
