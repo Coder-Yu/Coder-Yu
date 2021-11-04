@@ -29,8 +29,8 @@ This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Go
 + <b>J. Yu</b>, M. Gao, J. Li et al. Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation. <i>CIKM'18</i><br>
 
 #### Academic Services 🎓
-<b>PC Member</b>: IJCAI'21, CIKM'21, AAAI'22, IJCAI'22<br>
-<b>Reviewer</b>: TOIS, TKDE, TIST, TNNLS, KBS, IS
++ <b>PC Member</b>: IJCAI'21, CIKM'21, AAAI'22, IJCAI'22<br>
++ <b>Reviewer</b>: TOIS, TKDE, TIST, TNNLS, KBS, IS
 
 #### Featured Project 🍊
 <a href="https://github.com/Coder-Yu/QRec"> <img src="https://i.ibb.co/Bsn8CM5/logo.png" alt="logo" border="0"></a><br>
