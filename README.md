@@ -28,6 +28,10 @@ This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Go
 + <b>J. Yu</b>, M. Gao, H. Yin et al. Generating Reliable Friends via Adversarial Training to Improve Social Recommendation. <i>ICDM'19</i><br>
 + <b>J. Yu</b>, M. Gao, J. Li et al. Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation. <i>CIKM'18</i><br>
 
+#### Academic Services 🎓
+<b>PC Member</b>: IJCAI'21, CIKM'21, AAAI'22, IJCAI'22<br>
+<b>Reviewer</b>: TOIS, TKDE, TIST, TNNLS, KBS, IS
+
 #### Featured Project 🍊
 <a href="https://github.com/Coder-Yu/QRec"> <img src="https://i.ibb.co/Bsn8CM5/logo.png" alt="logo" border="0"></a><br>
 <p float="left"> <a href="https://github.com/Coder-Yu/QRec/stargazers"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Coder-Yu/QRec"/> </a> <a href="https://github.com/Coder-Yu/QRec/network/members"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Coder-Yu/QRec"/> </a> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Coder-Yu/QRec"></p> 
