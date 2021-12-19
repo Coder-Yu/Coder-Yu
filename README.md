@@ -15,9 +15,6 @@ This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Go
 - [02/10/2020] One paper on graph convolutional networks and generative adversarial networks is accepted by IEEE TKDE.
 
 ### Selected Publications ⭐️
-#### Tutorials
-+ <b>J. Yu</b>, H. Yin, T. Chen. Self-Supervised Learning in Recommendation: Fundamentals and Advances. <i>WWW'22</i><br>
-#### Papers
 &emsp;<b>Year 2021</b>
 + Q. Wang, H. Yin, T. Chen, <b>J. Yu</b> et al. Fast-adapting and Privacy-preserving Federated Recommender System. <i>VLDBJ'21</i>
 + X. Xia, H. Yin, <b>J. Yu</b> et al. Self-Supervised Graph Co-Training for Session-based Recommendation. <i>CIKM'21</i><br>
@@ -30,6 +27,9 @@ This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Go
 + <b>J. Yu</b>, H. Yin, J. Li et al. Enhancing Social Recommendation with Adversarial Graph Convolutional Networks. <i>TKDE'20</i><br>
 + <b>J. Yu</b>, M. Gao, H. Yin et al. Generating Reliable Friends via Adversarial Training to Improve Social Recommendation. <i>ICDM'19</i><br>
 + <b>J. Yu</b>, M. Gao, J. Li et al. Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation. <i>CIKM'18</i><br>
+
+#### Tutorials
++ <b>J. Yu</b>, H. Yin, T. Chen. Self-Supervised Learning in Recommendation: Fundamentals and Advances. <i>WWW'22</i><br>
 
 ### Academic Services 🎓
 + <b>PC Member</b>: IJCAI'21, CIKM'21, AAAI'22, IJCAI'22<br>
