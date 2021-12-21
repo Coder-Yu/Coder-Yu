@@ -29,7 +29,7 @@ This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Go
 + <b>J. Yu</b>, M. Gao, J. Li et al. Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation. <i>CIKM'18</i><br>
 
 #### Tutorials
-+ <b>J. Yu</b>, H. Yin, T. Chen. Self-Supervised Learning in Recommendation: Fundamentals and Advances. <i>WWW'22</i> [[PDF]](https://www.dropbox.com/sh/d1vwzkk7yk54f71/AAB9Rhxm_VsQq_nWBD7vydmYa?dl=0) [[video teaser]](https://www.dropbox.com/s/lnz3rjyvz5vywnn/SSL-in-Recommendation-WWW%2722.mp4?dl=0)<br>
++ <b>J. Yu</b>, H. Yin, T. Chen. Self-Supervised Learning in Recommendation: Fundamentals and Advances. <i>WWW'22</i> [[PDF]](https://www.dropbox.com/sh/d1vwzkk7yk54f71/AAB9Rhxm_VsQq_nWBD7vydmYa?dl=0) [[Page]](https://ssl-recsys.github.io/)<br>
 
 ### Academic Services 🎓
 + <b>PC Member</b>: IJCAI'21, CIKM'21, AAAI'22, IJCAI'22<br>
