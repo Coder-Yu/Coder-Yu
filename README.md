@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Google Scholar]](https://scholar.google.com/citations?user=JGuWOUIAAAAJ&hl=EN&oi=ao)
+This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Homepage]](https://coder-yu.github.io/)
 - I’m working with A/Prof. Hongzhi Yin at the University of Queensland.
 - My research interests include recommender systems, social network analysis, self-supervised learning and graph learning.
 - Feel free to drop me an email if you have any questions. [📧](mailto:jl.yu@uq.edu.au)
@@ -13,27 +13,6 @@ This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Go
 - [16/01/2021] One paper on self-supervised learning and social recommendation is accepted by WWW'21.  
 - [02/12/2020] One co-authored paper on hypergraph and session-based recommendation is accepted by AAAI'21.  
 - [02/10/2020] One paper on graph convolutional networks and generative adversarial networks is accepted by IEEE TKDE.
-
-### Selected Publications ⭐️
-&emsp;<b>Year 2021</b>
-+ Q. Wang, H. Yin, T. Chen, <b>J. Yu</b> et al. Fast-adapting and Privacy-preserving Federated Recommender System. <i>VLDBJ'21</i>
-+ X. Xia, H. Yin, <b>J. Yu</b> et al. Self-Supervised Graph Co-Training for Session-based Recommendation. <i>CIKM'21</i><br>
-+ J. Zhang, M. Gao, <b>J. Yu</b> et al. Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation. <i>CIKM'21</i><br>
-+ <b>J. Yu</b>, H. Yin, M. Gao et al. Socially-Aware Self-Supervised Tri-Training for Recommendation. <i>KDD'21</i><br>
-+ <b>J. Yu</b>, H. Yin, J. Li et al. Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation. <i>WWW'21</i><br>
-+ X. Xia, H. Yin, <b>J. Yu</b> et al. Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation. <i>AAAI'21</i><br>
-
-&emsp;<b>Before 2021</b>
-+ <b>J. Yu</b>, H. Yin, J. Li et al. Enhancing Social Recommendation with Adversarial Graph Convolutional Networks. <i>TKDE'20</i><br>
-+ <b>J. Yu</b>, M. Gao, H. Yin et al. Generating Reliable Friends via Adversarial Training to Improve Social Recommendation. <i>ICDM'19</i><br>
-+ <b>J. Yu</b>, M. Gao, J. Li et al. Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation. <i>CIKM'18</i><br>
-
-#### Tutorials
-+ <b>J. Yu</b>, H. Yin, T. Chen. Self-Supervised Learning in Recommendation: Fundamentals and Advances. <i>WWW'22</i> [[website]](https://ssl-recsys.github.io/)<br>
-
-### Academic Services 🎓
-+ <b>PC Member</b>: IJCAI'21, CIKM'21, AAAI'22, IJCAI'22<br>
-+ <b>Reviewer</b>: TOIS, TKDE, TIST, TNNLS, KBS, IS
 
 ### Featured Project 🍊
 <a href="https://github.com/Coder-Yu/QRec"> <img src="https://i.ibb.co/Bsn8CM5/logo.png" alt="logo" border="0"></a><br>
