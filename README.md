@@ -7,7 +7,7 @@ This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Ho
 <hr>
 
 ### What's New 📢
-- [20/12/2021] One tutorial proposal on self-supervised recommendation accepted by WWW'22.
+- [20/12/2021] One tutorial proposal on self-supervised recommendation is accepted by WWW'22.
 - [01/09/2021] One co-authored paper on federated learning and recommendation is accepted by the VLDB Journal.
 - [08/08/2021] Two co-authored papers on self-supervised learning and group/session recommendation are accepted by CIKM'21
 - [17/05/2021] One paper on self-supervised learning and recommendation is accepted by KDD'21.  
