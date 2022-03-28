@@ -40,11 +40,6 @@ Xin Xia, Hongzhi Yin, <u>Junliang Yu</u>, Qinyong Wang, Lizhen Cui, Xiangliang Z
 + [Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation](https://dl.acm.org/doi/10.1145/3269206.3271725).  <i><b>CIKM'18</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/IF-BPR.py) <br>
 <u>Junliang Yu</u>, Min Gao, Jundong Li, Hongzhi Yin, Huan Liu
 
-<h4>Tutorials</h4>
-
-+ [Self-Supervised Learning in Recommendation: Fundamentals and Advances]().  <i><b>WWW'22</b></i> [[website]](https://ssl-recsys.github.io/) <br>
-<u>Junliang Yu</u>, Hongzhi Yin, Tong Chen
-  
 <h4>Preprints</h4>
 
 + [Graph Augmentation-Free Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679).  [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/GACL.py) <br>
@@ -52,6 +47,12 @@ Xin Xia, Hongzhi Yin, <u>Junliang Yu</u>, Qinyong Wang, Lizhen Cui, Xiangliang Z
 + [Self-Supervised Learning for Recommender Systems: A Survey](https://www.dropbox.com/sh/n0c8rj9046mmhc2/AABloIlr8Qg4YOcd1SghXiiea?dl=0). <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Tong Chen, Jundong Li, Zi Huang
 <hr>
+
+<h4>Tutorials</h4>
+
++ [Self-Supervised Learning in Recommendation: Fundamentals and Advances]().  <i><b>WWW'22</b></i> [[website]](https://ssl-recsys.github.io/) <br>
+<u>Junliang Yu</u>, Hongzhi Yin, Tong Chen
+  
 
 ### Featured Project 🍊
 <a href="https://github.com/Coder-Yu/QRec"> <img src="https://raw.githubusercontent.com/Coder-Yu/QRec/master/logo.png" alt="logo" width=360 border="0"></a><br>
