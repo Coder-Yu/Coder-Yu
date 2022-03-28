@@ -46,13 +46,13 @@ Xin Xia, Hongzhi Yin, <u>Junliang Yu</u>, Qinyong Wang, Lizhen Cui, Xiangliang Z
 <u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Lizhen Cui, Quoc Viet Hung Nguyen
 + [Self-Supervised Learning for Recommender Systems: A Survey](https://www.dropbox.com/sh/n0c8rj9046mmhc2/AABloIlr8Qg4YOcd1SghXiiea?dl=0). <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Tong Chen, Jundong Li, Zi Huang
-<hr>
 
 <h4>Tutorials</h4>
 
 + [Self-Supervised Learning in Recommendation: Fundamentals and Advances]().  <i><b>WWW'22</b></i> [[website]](https://ssl-recsys.github.io/) <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Tong Chen
-  
+
+<hr>
 
 ### Featured Project 🍊
 <a href="https://github.com/Coder-Yu/QRec"> <img src="https://raw.githubusercontent.com/Coder-Yu/QRec/master/logo.png" alt="logo" width=360 border="0"></a><br>
