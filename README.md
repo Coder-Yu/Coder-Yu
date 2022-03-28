@@ -7,6 +7,7 @@ This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Ho
 <hr>
 
 ### What's New 📢
+- [28/03/2022] We have released a survey on self-supervised recommender systems.
 - [20/12/2021] One tutorial proposal on self-supervised recommendation is accepted by WWW'22.
 - [01/09/2021] One co-authored paper on federated learning and recommendation is accepted by the VLDB Journal.
 - [08/08/2021] Two co-authored papers on self-supervised learning and group/session recommendation are accepted by CIKM'21
@@ -48,6 +49,8 @@ Xin Xia, Hongzhi Yin, <u>Junliang Yu</u>, Qinyong Wang, Lizhen Cui, Xiangliang Z
 
 + [Graph Augmentation-Free Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679).  [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/GACL.py) <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Lizhen Cui, Quoc Viet Hung Nguyen
++ [Self-Supervised Learning for Recommender Systems: A Survey](https://www.dropbox.com/sh/n0c8rj9046mmhc2/AABloIlr8Qg4YOcd1SghXiiea?dl=0). <br>
+<u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Tong Chen, Jundong Li, Zi Huang
 <hr>
 
 ### Featured Project 🍊
