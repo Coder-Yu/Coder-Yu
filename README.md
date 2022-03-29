@@ -44,7 +44,7 @@ Xin Xia, Hongzhi Yin, <u>Junliang Yu</u>, Qinyong Wang, Lizhen Cui, Xiangliang Z
 
 + [Graph Augmentation-Free Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679).  [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/GACL.py) <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Lizhen Cui, Quoc Viet Hung Nguyen
-+ [Self-Supervised Learning for Recommender Systems: A Survey](https://www.dropbox.com/sh/n0c8rj9046mmhc2/AABloIlr8Qg4YOcd1SghXiiea?dl=0). <br>
++ [Self-Supervised Learning for Recommender Systems: A Survey](https://www.dropbox.com/s/a7dcle7fyi7l2t7/survey.pdf?dl=0). <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Tong Chen, Jundong Li, Zi Huang
 
 <h4>Tutorials</h4>
