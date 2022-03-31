@@ -20,6 +20,12 @@ This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Ho
 
 ### Selected Publications
 
+
+<h4>Tutorials</h4>
+
++ [Self-Supervised Learning in Recommendation: Fundamentals and Advances]().  <i><b>WWW'22</b></i> [[website]](https://ssl-recsys.github.io/) <br>
+<b>Junliang Yu</b>, Hongzhi Yin, Tong Chen
+
 <h4>Conference Papers</h4>
 
 + [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation	](https://arxiv.org/abs/2112.08679).  <i><b>SIGIR'22</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SimGCL.py) <br>
@@ -53,10 +59,6 @@ Qinyong Wang, Hongzhi Yin, Tong Chen, <b>Junliang Yu</b>, Alexander Zhou, Xiangl
 + [Self-Supervised Learning for Recommender Systems: A Survey](http://arxiv.org/abs/2203.15876).  Submitted to <i><b>TKDE</b></i> <br>
 <b>Junliang Yu</b>, Hongzhi Yin, Xin Xia, Tong Chen, Jundong Li, Zi Huang
 
-<h4>Tutorials</h4>
-
-+ [Self-Supervised Learning in Recommendation: Fundamentals and Advances]().  <i><b>WWW'22</b></i> [[website]](https://ssl-recsys.github.io/) <br>
-<b>Junliang Yu</b>, Hongzhi Yin, Tong Chen
 
 <hr>
 
