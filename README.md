@@ -50,7 +50,7 @@ Qinyong Wang, Hongzhi Yin, Tong Chen, <u>Junliang Yu</u>, Alexander Zhou, Xiangl
 
 <h4>Preprints</h4>
 
-+ [Self-Supervised Learning for Recommender Systems: A Survey](http://arxiv.org/abs/2203.15876). <br>
++ [Self-Supervised Learning for Recommender Systems: A Survey](http://arxiv.org/abs/2203.15876).  Submitted to <i><b>TKDE</b></i> <br>
 <u>Junliang Yu</u>, Hongzhi Yin, Xin Xia, Tong Chen, Jundong Li, Zi Huang
 
 <h4>Tutorials</h4>
