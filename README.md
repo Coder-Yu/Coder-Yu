@@ -44,7 +44,7 @@ Xin Xia, Hongzhi Yin, <b>Junliang Yu</b>, Qinyong Wang, Lizhen Cui, Xiangliang Z
 <h4>Journal Papers</h4>
 
 + [Fast-adapting and Privacy-preserving Federated Recommender System](https://link.springer.com/article/10.1007/s00778-021-00700-6).  <i><b>VLDBJ'21</b></i> [[code]]()<br>
-Qinyong Wang, Hongzhi Yin, Tong Chen, <u>Junliang Yu</u>, Alexander Zhou, Xiangliang Zhang. 
+Qinyong Wang, Hongzhi Yin, Tong Chen, <b>Junliang Yu</b>, Alexander Zhou, Xiangliang Zhang. 
 + [Enhancing Social Recommendation with Adversarial Graph Convolutional Networks](https://ieeexplore.ieee.org/document/9239885).  <i><b>TKDE'20</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/ESRF.py) <br>
 <b>Junliang Yu</b>, Hongzhi Yin, Jundong Li, Min Gao, Zi Huang, Lizhen Cui
 
