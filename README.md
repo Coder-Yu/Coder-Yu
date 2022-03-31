@@ -29,7 +29,7 @@ This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Ho
 <h4>Conference Papers</h4>
 
 + [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2112.08679).  <i><b>SIGIR'22</b></i> [[code]](https://github.com/Coder-Yu/QRec/blob/master/model/ranking/SimGCL.py) <br>
-<b>Junliang Yu</b>, Hongzhi Yin, Xin Xia, Lizhen Cui, Quoc Viet Hung Nguyen
+<b>Junliang Yu</b>, Hongzhi Yin, Xin Xia, Tong Chen, Lizhen Cui, Quoc Viet Hung Nguyen
 + [	On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation]().  <i><b>SIGIR'22</b></i> [[code]]() <br>
 Xin Xia, Hongzhi Yin, <b>Junliang Yu</b>, Qinyong Wang, Guandong Xu, Quoc Viet Hung Nguyen
 + [Self-Supervised Graph Co-Training for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3459637.3482388).  <i><b>CIKM'21</b></i> [[code]](https://github.com/xiaxin1998/COTREC) <br>
