@@ -8,7 +8,7 @@ This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Ho
 
 ### What's New 📢
 - [31/03/2022] Two papers on contrastive learning and on-device recommendation are accepted by SIGIR'22.
-- [28/03/2022] We have released a survey on self-supervised recommendation.
+- [28/03/2022] We have released a survey on self-supervised recommendation [[link]](http://arxiv.org/abs/2203.15876).
 - [20/12/2021] One tutorial proposal on self-supervised recommendation is accepted by WWW'22.
 - [01/09/2021] One co-authored paper on federated learning and recommendation is accepted by the VLDB Journal.
 - [08/08/2021] Two co-authored papers on self-supervised learning and group/session recommendation are accepted by CIKM'21
