@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Homepage]](https://coder-yu.github.io/)
+This is Junliang Yu, a third-year PhD student majoring in Computer Science. [[Homepage]](https://coder-yu.github.io/)[[Google Scholar]](https://scholar.google.com/citations?user=JGuWOUIAAAAJ&hl=en&oi=ao)
 - I’m working with A/Prof. Hongzhi Yin at the University of Queensland.
 - My research interests include recommender systems, social network analysis, self-supervised learning and graph learning.
 - Feel free to drop me an email if you have any questions. [📧](mailto:jl.yu@uq.edu.au)
