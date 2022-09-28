@@ -6,18 +6,6 @@ This is Junliang Yu, a final-year PhD student majoring in Computer Science. [[Ho
 - Feel free to drop me an email if you have any questions. [📧](mailto:jl.yu@uq.edu.au)
 <hr>
 
-### What's New 📢
-- [31/03/2022] Two papers on contrastive learning and on-device recommendation are accepted by SIGIR'22.
-- [28/03/2022] We have released a survey on self-supervised recommendation [[link]](http://arxiv.org/abs/2203.15876).
-- [20/12/2021] One tutorial proposal on self-supervised recommendation is accepted by WWW'22 [[link]](https://ssl-recsys.github.io/).
-- [01/09/2021] One co-authored paper on federated learning and recommendation is accepted by the VLDB Journal.
-- [08/08/2021] Two co-authored papers on self-supervised learning and group/session recommendation are accepted by CIKM'21
-- [17/05/2021] One paper on self-supervised learning and recommendation is accepted by KDD'21.  
-- [16/01/2021] One paper on self-supervised learning and social recommendation is accepted by WWW'21.  
-- [02/12/2020] One co-authored paper on hypergraph and session-based recommendation is accepted by AAAI'21.  
-- [02/10/2020] One paper on graph convolutional networks and generative adversarial networks is accepted by IEEE TKDE.
-<hr>
-
 ### Featured Project 🍊
 <a href="https://github.com/Coder-Yu/QRec"> <img src="https://raw.githubusercontent.com/Coder-Yu/QRec/master/logo.png" alt="logo" width=360 border="0"></a><br>
 <p float="left"> <a href="https://github.com/Coder-Yu/QRec/stargazers"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Coder-Yu/QRec"/> </a> <a href="https://github.com/Coder-Yu/QRec/network/members"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Coder-Yu/QRec"/> </a> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Coder-Yu/QRec"></p> 
