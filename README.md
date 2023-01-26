@@ -18,7 +18,3 @@ You can find all the implementations of my papers in QRec 😜.
 <p float="left"> <a href="https://github.com/Coder-Yu/SELFRec/stargazers"> <img alt="GitHub stars" src="https://img.shields.io/github/stars/Coder-Yu/SELFRec"/> </a> <a href="https://github.com/Coder-Yu/SELFRec/network/members"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/Coder-Yu/SELFRec"/> </a> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Coder-Yu/SELFRec"></p> 
 SELFRec is a Python framework for self-supervised recommendation (SSR) which integrates commonly used datasets and metrics, and implements many state-of-the-art SSR models. SELFRec has a lightweight architecture and provides user-friendly interfaces. It can facilitate model implementation and evaluation.
 <hr>
-
-### My Github States
-
-![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-Yu)
