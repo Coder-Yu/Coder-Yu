@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Junliang Yu. I am currently a postdoctoral research fellow in Data Science [[Homepage]](https://junliang-yu.github.io/)[[Google Scholar]](https://scholar.google.com/citations?user=JGuWOUIAAAAJ&hl=en&oi=ao)
+This is Junliang Yu. I am currently a postdoctoral research fellow working on data science [[Homepage]](https://junliang-yu.github.io/)[[Google Scholar]](https://scholar.google.com/citations?user=JGuWOUIAAAAJ&hl=en&oi=ao)
 - I’m working with A/Prof. Hongzhi Yin and Prof. Shazia Sadiq at the University of Queensland.
 - My research interests include recommender systems, tiny machine learning, self-supervised learning and graph learning.
 - Feel free to drop me an email if you have any questions. [📧](mailto:jl.yu@uq.edu.au)
